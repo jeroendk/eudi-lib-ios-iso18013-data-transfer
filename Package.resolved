@@ -24,7 +24,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/jeroendk/eudi-lib-ios-iso18013-security.git",
       "state" : {
-        "revision" : "4bc7c98040096b9c2abd3d35fabf3c4ad0b2c481",
+        "revision" : "fcd920337afa4b08d8932ae519c6de6027f98039",
         "version" : "0.31.3-gbo.1"
       }
     },
