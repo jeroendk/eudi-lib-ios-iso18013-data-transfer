@@ -11,3 +11,7 @@ The GBO release version is reserved for the pending publication. Its tag has
 not been created or pushed. Refresh the lockfile against the actual released
 fork revisions before publishing. The existing app builds still use their
 previous, validated SDK inputs until that release migration is complete.
+
+The public fork version is `0.30.1001` and selects security `0.31.3001`.
+Numeric fork versions are used because the upstream DC-API package range
+rejects prerelease versions. The upstream base and GBO source are unchanged.
